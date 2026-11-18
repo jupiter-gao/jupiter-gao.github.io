@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gaoyh20.github.io/sitemap.xml
+Sitemap: https://jupiter-gao.github.io/sitemap.xml
