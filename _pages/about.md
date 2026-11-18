@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-seo_title: Yuanhang Gao | PhD Candidate in Systems and AI
+seo_title: Yuanhang Gao (高源航)
+display_title: Yuanhang Gao (高源航)
 description: Yuanhang Gao (高源航) is a PhD candidate at NUDT researching LLM serving, KV cache optimization, memory-efficient inference, and distributed AI systems.
 keywords: Yuanhang Gao, 高源航, NUDT, LLM inference, LLM serving, KV cache optimization, systems for AI
 
