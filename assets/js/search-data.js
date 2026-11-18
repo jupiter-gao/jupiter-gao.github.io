@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "Publications and preprints by Yuanhang Gao on LLM inference, KV cache optimization, distributed AI systems, in-network computing, and key-value systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-education",
           title: "education",
-          description: "",
+          description: "Education and academic background of Yuanhang Gao, a PhD candidate at the National University of Defense Technology.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/education/";
